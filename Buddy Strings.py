@@ -26,6 +26,6 @@ def buddyStrings(A, B):
                 if(i != j and a == b):
                     return True
     return True
-A = "abab"
-B = "abab"
+A = "aaabc"
+B = "aaacb"
 print buddyStrings(A, B)
