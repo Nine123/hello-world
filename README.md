@@ -1,6 +1,4 @@
 # hello-world
-just a test
 
-I'm doing some test to study github!
+这里是用来做leetcode比赛的project，以后做的所有题目都将提交到该项目里面了
 
-gighub is wrong,I has modified!
